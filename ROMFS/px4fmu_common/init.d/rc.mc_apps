@@ -68,3 +68,8 @@ mc_pos_control start
 # Start Multicopter Land Detector.
 #
 land_detector start multicopter
+
+#
+# Start Custom Module.
+#
+custom_module start # module_name command args_in

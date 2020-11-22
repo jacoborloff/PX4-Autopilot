@@ -29,6 +29,7 @@ px4_add_board(
 		attitude_estimator_q
 		camera_feedback
 		commander
+		custom_module # directories to include
 		dataman
 		ekf2
 		events
